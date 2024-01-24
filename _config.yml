@@ -1,0 +1,9 @@
+remote_theme: verfasor/sparrowx@main
+plugins:
+- jekyll-remote-theme
+
+title: Stephen Durfey
+description: A repository of deep learning models created while following the FastAI Deep Learning For Coders lessons
+
+author:
+  name: Stephen Durfey
